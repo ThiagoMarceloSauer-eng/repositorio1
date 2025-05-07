@@ -1,0 +1,1 @@
+para executar esse código gere um arquivo escrito cavalo em php e css
